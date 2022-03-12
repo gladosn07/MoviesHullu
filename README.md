@@ -2,9 +2,6 @@
 
 Criar aplicaçao Filmes com o The Movie DataBase.
 
-###Link Site
-https://jscommerce.netlify.app/
-
 ## 🛠 Tecnologias utilizadas
 
 -   ⚛️ **React** — Single page application
